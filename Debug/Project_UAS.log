@@ -1,0 +1,10 @@
+﻿  Project_UAS.cpp
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(101,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(102,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(116,28): warning C4305: '+=': truncation from 'double' to 'float'
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(119,28): warning C4305: '-=': truncation from 'double' to 'float'
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(122,28): warning C4305: '-=': truncation from 'double' to 'float'
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(125,28): warning C4305: '+=': truncation from 'double' to 'float'
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(128,28): warning C4305: '+=': truncation from 'double' to 'float'
+D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Project_UAS.cpp(131,28): warning C4305: '-=': truncation from 'double' to 'float'
+  Project_UAS.vcxproj -> D:\USU\Semester 3\Praktikum Grafika Komputer\UAS\Project_UAS\Debug\Project_UAS.exe
