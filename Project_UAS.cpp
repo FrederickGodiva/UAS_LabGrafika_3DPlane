@@ -1,7 +1,6 @@
 // Project_UAS.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <windows.h>
 #include <glut.h>
 
 float translationX = 0, translationY = 0, translationZ = -8, rotationX = 0, rotationY = 0, rotationZ = 4;
