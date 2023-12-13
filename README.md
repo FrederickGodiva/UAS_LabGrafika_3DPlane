@@ -1,4 +1,4 @@
-# UAS Lab Grafika 3D Plane
+# UAS Lab Grafika 3D Plane Kelompok GGS
 ---
 Nama Kelompok: <strong>GGS</strong> <br>
 Anggota :
