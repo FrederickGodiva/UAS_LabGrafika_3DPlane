@@ -1,6 +1,6 @@
 # UAS Lab Grafika 3D Plane
 ---
-Nama Kelompok: GGS <br>
+Nama Kelompok: <strong>GGS</strong> <br>
 Anggota :
   <ol>
     <li>Muhammad Azi Maulana Manru <strong>(<em>221401028</em>)</strong></li>
