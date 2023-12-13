@@ -1,6 +1,8 @@
 # UAS Lab Grafika 3D Plane
 ---
-Nama Kelompok: GGS
+Nama Kelompok: GGS <br>
 Anggota :
-  1. Muhammad Azi Maulana Manru (221401028)
-  2. Frederick Godiva (221401038)
+  <ol>
+    <li>Muhammad Azi Maulana Manru <strong>(<em>221401028</em>)</strong></li>
+    <li>frederick Godiva <strong>(<em>221401038</em>)</strong></li>
+  </ol>
